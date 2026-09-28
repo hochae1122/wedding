@@ -39,7 +39,7 @@ const CONFIG = {
     venue: "잠실 아펠가모",
     address: "올림픽로35길 137 한국광고문화회관 2층",
     mapLinks: {
-      kakao: "https://map.kakao.com/21401219",
+      kakao: "https://place.map.kakao.com/21401219",
       naver: "https://map.naver.com/p/entry/place/19816148?placePath=%2Fhome%3Fentry%3Dplt%26from%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202607211134%26locale%3Dko%26svcName%3Dmap_pcv5&searchType=place&lng=127.0994500&lat=37.5161749&c=15.00,0,0,0,dh"
     }
   },
